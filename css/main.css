@@ -133,7 +133,7 @@ header a {
 
 article {
   margin-top: 3em;
-  animation: wait 300ms, pop-in 300ms 300ms;
+  animation: wait 200ms, pop-in 200ms 200ms;
 }
 
 nav {
