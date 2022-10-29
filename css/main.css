@@ -94,7 +94,7 @@ main p {
 }
 
 header {
-  animation: 200ms ease-out 0s pop-in;
+  animation: 300ms linear 0s pop-in;
 }
 
 .name {
@@ -133,7 +133,7 @@ header a {
 
 article {
   margin-top: 3em;
-  animation: wait 200ms, pop-in 200ms 200ms;
+  animation: wait 300ms, pop-in 300ms 300ms;
 }
 
 nav {
